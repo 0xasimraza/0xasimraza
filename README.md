@@ -1,8 +1,8 @@
 ### Hi there, I'm ASIM RAZA (Etholic)👋
 
-# I'm a FullStack Blockchain Developer
+# I'm a FullStack Blockchain Engineer
 
-- 🔭 I’m currently working as a Blockchain Engineer in XORD
+- 🔭 I’m currently working as a Blockchain Engineer in Algo Alliance
 - 💻 Excited to contribute open source development
 - 🌱 I’m currently research on EVM Architecture and DeFi Protocols
 - 👯 I’m looking to collaborate on Ethereum or related
