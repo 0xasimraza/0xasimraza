@@ -67,5 +67,3 @@
 
 
 
-- # Github Old Account <a href="https://github.com/SyedAsimRazaNaqvi" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
- [![Academic GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedAsimRazaNaqvi)](https://github.com/SyedAsimRazaNaqvi/github-readme-stats)
