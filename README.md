@@ -16,7 +16,7 @@
   
 [![Professional GitHub stats](https://github-readme-stats.vercel.app/api?username=0xasimraza)](https://github.com/0xasimraza/github-readme-stats)
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsimRazaNaqvi&layout=compact&langs_count=10)](https://github.com/SyedAsimRazaNaqvi/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xasimraza&layout=compact&langs_count=10)](https://github.com/0xasimraza/github-readme-stats)
 </details>
 
 # BLOCKCHAIN STACK
