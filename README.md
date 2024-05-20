@@ -2,7 +2,7 @@
 
 # I'm a FullStack Blockchain Engineer
 
-- 🔭 I’m currently working as a Blockchain Engineer in Algo Alliance
+- 🔭 I’m Blockchain Engineer @DroxLabs
 - 💻 Excited to contribute open source development
 - 🌱 I’m currently research on EVM Architecture and DeFi Protocols
 - 👯 I’m looking to collaborate on Ethereum or related
