@@ -13,11 +13,6 @@
       alt="LinkedIn"
     />
   </a>
-  
-[![Professional GitHub stats](https://github-readme-stats.vercel.app/api?username=0xasimraza)](https://github.com/0xasimraza/github-readme-stats)
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xasimraza&layout=compact&langs_count=10)](https://github.com/0xasimraza/github-readme-stats)
-</details>
 
 ## Languages and Tools
 
@@ -28,6 +23,12 @@
 | **Web-3 & Blockchain Dev**                       | ![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Foundry Badge](https://img.shields.io/badge/-Foundry-7289DA?style=for-the-badge&logo=foundry&logoColor=white) ![Hardhat Badge](https://img.shields.io/badge/-Hardhat-F3C611?style=for-the-badge&logo=hardhat&logoColor=white) ![Ethers.js Badge](https://img.shields.io/badge/-Ethers.js-663399?style=for-the-badge&logo=ethereum&logoColor=white) ![Smart Contracts Badge](https://img.shields.io/badge/-Smart%20Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white) ![Ganache Badge](https://img.shields.io/badge/-Ganache-FF7139?style=for-the-badge&logo=ganache&logoColor=white) ![Truffle Badge](https://img.shields.io/badge/-Truffle-5E0E02?style=for-the-badge&logo=truffle&logoColor=white) ![Ethereum Badge](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Solana Badge](https://img.shields.io/badge/-Solana-381F56?style=for-the-badge&logo=solana&logoColor=white) |
 | **Databases & DevOps**                           | ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Badge](https://img.shields.io/badge/-Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![GitLab CI/CD Badge](https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **Scripting, Version Control & Unit Testing**    | ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jest Badge](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) |
+
+  
+[![Professional GitHub stats](https://github-readme-stats.vercel.app/api?username=0xasimraza)](https://github.com/0xasimraza/github-readme-stats)
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xasimraza&layout=compact&langs_count=10)](https://github.com/0xasimraza/github-readme-stats)
+</details>
 
 # BLOCKCHAIN STACK
   ###  EVM 
